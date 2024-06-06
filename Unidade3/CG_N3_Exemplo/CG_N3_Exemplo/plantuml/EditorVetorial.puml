@@ -1,0 +1,21 @@
+﻿@startuml
+namespace gcgcg {
+    class EditorVetorial {
+        - List<Poligono> poligonos
+        - int idxPoliogonoSelecionado
+        - int idxPoligonoAlterando
+          
+        + EditorVetorial(Objeto _paiRef, ref char _rotulo)
+        + Poligono GetPoligonoAtualSelecionado()
+        + Poligono GetPoligonoAtualAlterando()
+        + void AdicionarPoligono(Poligono _poligono)
+        + void AlterarPontoPoligonoAtual(int idxPosicao, Ponto4D _ponto)
+        + void AdicionarPontoPoligonoAtual(Ponto4D _ponto)
+        + void MoverVerticeMaisProximoPoligono(Ponto4D pontoMouse)
+        + void RemoverVerticeMaisProximoPoligono(Ponto4D pontoMouse)
+        + void RemoverPoligono()
+        + void AlteraAberturaFechamentoPoligonoAtual()
+        + void SelecionaPoligono(Ponto4D pontoMouse)
+    }
+}
+@enduml
