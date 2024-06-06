@@ -1,0 +1,50 @@
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.deps.json
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.AssemblyInfo.cs
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\refint\CG_Biblioteca.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\ref\CG_Biblioteca.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.sourcelink.json
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.deps.json
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.AssemblyInfo.cs
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.sourcelink.json
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\refint\CG_Biblioteca.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_Biblioteca\obj\Debug\net8.0\ref\CG_Biblioteca.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.deps.json
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.AssemblyInfo.cs
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\refint\CG_Biblioteca.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\ref\CG_Biblioteca.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.deps.json
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.AssemblyInfo.cs
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\refint\CG_Biblioteca.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_Biblioteca\obj\Debug\net8.0\ref\CG_Biblioteca.dll

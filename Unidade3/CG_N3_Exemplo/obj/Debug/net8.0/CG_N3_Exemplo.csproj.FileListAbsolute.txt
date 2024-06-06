@@ -1,0 +1,170 @@
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shader.vert
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderAmarela.frag
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderAzul.frag
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderBranca.frag
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderCiano.frag
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderMagenta.frag
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderVerde.frag
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderVermelha.frag
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.exe
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.deps.json
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.runtimeconfig.json
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.pdb
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Audio.OpenAL.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Compute.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Core.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Graphics.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Input.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Mathematics.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Windowing.Common.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Windowing.Desktop.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\StbImageSharp.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw-wayland.so.3.3
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.csproj.AssemblyReference.cache
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.AssemblyInfoInputs.cache
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.AssemblyInfo.cs
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.csproj.CopyComplete
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\refint\CG_N3_Exemplo.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.pdb
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.genruntimeconfig.cache
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\ref\CG_N3_Exemplo.dll
+C:\Users\Hiago Campregher\Documents\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.sourcelink.json
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shader.vert
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderAmarela.frag
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderAzul.frag
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderBranca.frag
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderCiano.frag
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderMagenta.frag
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderVerde.frag
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderVermelha.frag
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.exe
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.deps.json
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.runtimeconfig.json
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.pdb
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Audio.OpenAL.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Compute.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Core.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Graphics.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Input.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Mathematics.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Windowing.Common.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Windowing.Desktop.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\StbImageSharp.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw-wayland.so.3.3
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.csproj.AssemblyReference.cache
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.AssemblyInfoInputs.cache
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.AssemblyInfo.cs
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.sourcelink.json
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.csproj.CopyComplete
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\refint\CG_N3_Exemplo.dll
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.pdb
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.genruntimeconfig.cache
+C:\Users\hiago\Music\ComputacaoGrafica\ComputacaoGrafica\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\ref\CG_N3_Exemplo.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shader.vert
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderAmarela.frag
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderAzul.frag
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderBranca.frag
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderCiano.frag
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderMagenta.frag
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderVerde.frag
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderVermelha.frag
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.exe
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.deps.json
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.runtimeconfig.json
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.pdb
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Audio.OpenAL.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Compute.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Core.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Graphics.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Input.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Mathematics.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Windowing.Common.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Windowing.Desktop.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\StbImageSharp.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw-wayland.so.3.3
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.csproj.AssemblyReference.cache
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.AssemblyInfoInputs.cache
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.AssemblyInfo.cs
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.csproj.CopyComplete
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\refint\CG_N3_Exemplo.dll
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.pdb
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.genruntimeconfig.cache
+C:\Users\Hiago Campregher\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\ref\CG_N3_Exemplo.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shader.vert
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderAmarela.frag
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderAzul.frag
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderBranca.frag
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderCiano.frag
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderMagenta.frag
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderVerde.frag
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\Shaders\shaderVermelha.frag
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.exe
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.deps.json
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.runtimeconfig.json
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_N3_Exemplo.pdb
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Audio.OpenAL.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Compute.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Core.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Graphics.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Input.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Mathematics.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Windowing.Common.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Windowing.Desktop.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\StbImageSharp.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw-wayland.so.3.3
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\bin\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.csproj.AssemblyReference.cache
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.AssemblyInfoInputs.cache
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.AssemblyInfo.cs
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.csproj.CopyComplete
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\refint\CG_N3_Exemplo.dll
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.pdb
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\CG_N3_Exemplo.genruntimeconfig.cache
+C:\Users\hiago\Music\Unidade3\Unidade3\CG_N3_Exemplo\obj\Debug\net8.0\ref\CG_N3_Exemplo.dll
