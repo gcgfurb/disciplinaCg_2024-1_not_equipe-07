@@ -7,6 +7,7 @@ using OpenTK.Graphics.OpenGL4;
 using System;
 using System.Collections.Generic;
 using OpenTK.Mathematics;
+using gcgcg.Shaders;
 
 namespace gcgcg
 {
@@ -21,7 +22,7 @@ namespace gcgcg
         public PrimitiveType PrimitivaTipo { get => primitivaTipo; set => primitivaTipo = value; }
         private float primitivaTamanho = 1;
         public float PrimitivaTamanho { get => primitivaTamanho; set => primitivaTamanho = value; }
-        public Shader _shaderObjeto = new Shader("Shaders/shader.vert", "Shaders/shaderBranca.frag");
+        public Shader _shaderObjeto = ShaderFactory.CreateShader(Shaders.ShaderType.Branca);
         public Shader shaderCor { set => _shaderObjeto = value; }
 
         public Texture texture;

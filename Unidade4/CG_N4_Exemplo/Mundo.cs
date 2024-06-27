@@ -32,6 +32,8 @@ namespace gcgcg
            0.0f,  0.0f, -0.5f, /* Z- */      0.0f,  0.0f,  0.5f  /* Z+ */
         };
 
+        private readonly Vector3 _lightPos = new Vector3(1.2f, 1.0f, 2.0f);
+
         private int _vertexBufferObject_sruEixos;
         private int _vertexArrayObject_sruEixos;
 
@@ -42,6 +44,11 @@ namespace gcgcg
         private Shader _shaderCiano;
         private Shader _shaderMagenta;
         private Shader _shaderAmarela;
+        private Shader _lightingShader;
+        private Shader _lampShader;
+
+        private int _vaoModel;
+        private int _vaoLamp;
 
         private Camera _camera;
 
@@ -92,12 +99,6 @@ namespace gcgcg
             GL.EnableVertexAttribArray(0);
             #endregion
 
-            #region Objeto: ponto  
-            objetoSelecionado = new Ponto(mundo, ref rotuloNovo, new Ponto4D(2.0, 0.0));
-            objetoSelecionado.PrimitivaTipo = PrimitiveType.Points;
-            objetoSelecionado.PrimitivaTamanho = 5;
-            #endregion
-
             #region Objeto: Cubo
             _cuboMaior = new Cubo(mundo, ref rotuloNovo);
             _cuboMaior.MatrizEscalaXYZ(1, 1, 1);
@@ -112,6 +113,8 @@ namespace gcgcg
             _cuboMenor.MatrizEscalaXYZ(0.3, 0.3, 0.3);
             _cuboMenor.MatrizTranslacaoXYZ(3, 0, 0);
 
+            //_camera = new Camera(Vector3.UnitZ * 3, Size.X / (float)Size.Y);
+
             #endregion
 
             _camera = new Camera(new Vector3(0, 0, raio), 16.0f / 9.0f);
@@ -122,6 +125,36 @@ namespace gcgcg
             base.OnRenderFrame(e);
 
             GL.Clear(ClearBufferMask.ColorBufferBit | ClearBufferMask.DepthBufferBit);
+
+
+            if (_lightingShader is not null)
+            {
+                GL.BindVertexArray(_vaoModel);
+                
+                _lightingShader.Use();
+
+                _lightingShader.SetMatrix4("model", Matrix4.Identity);
+                _lightingShader.SetMatrix4("view", _camera.GetViewMatrix());
+                _lightingShader.SetMatrix4("projection", _camera.GetProjectionMatrix());
+
+                _lightingShader.SetVector3("objectColor", new Vector3(1.0f, 0.5f, 0.31f));
+                _lightingShader.SetVector3("lightColor", new Vector3(1.0f, 1.0f, 1.0f));
+                _lightingShader.SetVector3("lightPos", _lightPos);
+                _lightingShader.SetVector3("viewPos", _camera.Position);
+
+                GL.BindVertexArray(_vaoLamp);
+
+                _lampShader.Use();
+
+                Matrix4 lampMatrix = Matrix4.CreateScale(0.2f);
+                lampMatrix = lampMatrix * Matrix4.CreateTranslation(_lightPos);
+
+                _lampShader.SetMatrix4("model", lampMatrix);
+                _lampShader.SetMatrix4("view", _camera.GetViewMatrix());
+                _lampShader.SetMatrix4("projection", _camera.GetProjectionMatrix());
+
+                GL.DrawArrays(PrimitiveType.Triangles, 0, 36);
+            }
 
             mundo.Desenhar(new Transformacao4D(), _camera);
 
@@ -145,6 +178,7 @@ namespace gcgcg
             base.OnUpdateFrame(e);
 
             var mouse = MouseState;
+            var input = KeyboardState;
 
             if (primeiroMovimento)
             {
@@ -161,17 +195,52 @@ namespace gcgcg
                 }
                 else
                 {
-                    var mouseOffset = new Vector2(mouse.X, mouse.Y) - _lastMousePosition;
+                    var sensitivity = 0.1f;
+
+                    var deltaX = mouse.X - _lastMousePosition.X;
+                    var deltaY = mouse.Y - _lastMousePosition.Y;
                     _lastMousePosition = new Vector2(mouse.X, mouse.Y);
 
-                    angulo += mouseOffset.X * 0.1f;
-
-                    Ponto4D novoPonto = Matematica.GerarPtosCirculo(angulo, raio);
-                    _camera.Position = new Vector3((float)novoPonto.X, 0, (float)novoPonto.Y);
+                    _camera.Yaw += deltaX * sensitivity;
+                    _camera.Pitch -= deltaY * sensitivity;
+                    _camera.Position = _camera.Front * -5;
                 }
             }
             else
                 segurando = false;
+
+            if (input.IsKeyDown(Keys.D1))
+            {
+                _lightingShader = ShaderFactory.CreateShader(Shaders.ShaderType.BasicLighting);
+                _lampShader = new Shader("Shaders/BasicLighting/shader.vert", "Shaders/BasicLighting/shader.frag");
+
+                {
+                    _vaoModel = GL.GenVertexArray();
+                    GL.BindVertexArray(_vaoModel);
+
+                    var positionLocation = _lightingShader.GetAttribLocation("aPos");
+                    GL.EnableVertexAttribArray(positionLocation);
+                    GL.VertexAttribPointer(positionLocation, 3, VertexAttribPointerType.Float, false, 6 * sizeof(float), 0);
+
+                    var normalLocation = _lightingShader.GetAttribLocation("aNormal");
+                    GL.EnableVertexAttribArray(normalLocation);
+                    GL.VertexAttribPointer(normalLocation, 3, VertexAttribPointerType.Float, false, 6 * sizeof(float), 3 * sizeof(float));
+                }
+
+                {
+                    _vaoLamp = GL.GenVertexArray();
+                    GL.BindVertexArray(_vaoLamp);
+
+                    var positionLocation = _lampShader.GetAttribLocation("aPos");
+                    GL.EnableVertexAttribArray(positionLocation);
+                    GL.VertexAttribPointer(positionLocation, 3, VertexAttribPointerType.Float, false, 6 * sizeof(float), 0);
+                }
+            }
+
+            if (input.IsKeyDown(Keys.D0))
+            {
+                _lightingShader = null;
+            }
         }
 
         protected override void OnResize(ResizeEventArgs e)
@@ -205,6 +274,9 @@ namespace gcgcg
             GL.DeleteProgram(_shaderCiano.Handle);
             GL.DeleteProgram(_shaderMagenta.Handle);
             GL.DeleteProgram(_shaderAmarela.Handle);
+
+            if (_lightingShader is not null)
+                GL.DeleteProgram(_lightingShader.Handle);
 
             base.OnUnload();
         }

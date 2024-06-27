@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CG_N4_Exemplo", "CG_N4_Exemplo\CG_N4_Exemplo.csproj", "{1F5D8057-FFB1-41C5-BC33-3EBAD12F1EEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CG_Biblioteca", "CG_Biblioteca\CG_Biblioteca.csproj", "{670CEFB9-F8C2-4509-9FE9-2F5811620ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5D8057-FFB1-41C5-BC33-3EBAD12F1EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5D8057-FFB1-41C5-BC33-3EBAD12F1EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5D8057-FFB1-41C5-BC33-3EBAD12F1EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5D8057-FFB1-41C5-BC33-3EBAD12F1EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670CEFB9-F8C2-4509-9FE9-2F5811620ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670CEFB9-F8C2-4509-9FE9-2F5811620ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670CEFB9-F8C2-4509-9FE9-2F5811620ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670CEFB9-F8C2-4509-9FE9-2F5811620ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01B2F1F8-5581-4631-ACB4-BA4E2F08A391}
+	EndGlobalSection
+EndGlobal

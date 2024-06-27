@@ -20,7 +20,7 @@ namespace CG_Biblioteca
 
     public BBox()
     {
-      _shaderAmarela = new Shader("Shaders/shader.vert", "Shaders/shaderAmarela.frag");
+      _shaderAmarela = new Shader("Shaders/Colors/shader.vert", "Shaders/Colors/shaderAmarela.frag");
       // FIXME: falta deletar ..
       // GL.DeleteProgram(_shaderAmarela.Handle);
       // FIXME: deveria ser removido na classe BBox.
